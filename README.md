@@ -2,19 +2,15 @@
 A full-stack task management application built with React and Express.js.
 This modern and responsive task manager allows users to manage their tasks with full CRUD operations, priority levels, and filtering capabilities. The standout feature is the **infinite scrolling carousel** that displays tasks in a smooth, animated loop - implemented entirely in vanilla JavaScript/React without external libraries.
 
+https://github.com/user-attachments/assets/56c70432-bb5d-4e54-a12b-694fd18cd70c
+
 ## Setup Instructions
 
 ### Prerequisites
 - **Node.js** (v14 or higher)
 - **npm** (comes with Node.js)
 
-### 1. Clone the Repository
-```bash
-git clone <repository-url>
-cd task-manager
-```
-
-### 2. Backend Setup
+### 1. Backend Setup
 ```bash
 # Navigate to backend directory
 cd backend
@@ -31,7 +27,7 @@ npm start
 Backend server will run on **http://localhost:4000**
 Check backend health with: http://localhost:4000/health
 
-### 3. Frontend Setup
+### 2. Frontend Setup
 ```bash
 # Navigate to frontend directory (in a new terminal)
 cd frontend
