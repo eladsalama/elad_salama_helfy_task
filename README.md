@@ -17,7 +17,7 @@ cd task-manager
 ### 2. Backend Setup
 ```bash
 # Navigate to backend directory
-cd task-manager/backend
+cd backend
 
 # Install dependencies
 npm install
@@ -34,7 +34,7 @@ Check backend health with: http://localhost:4000/health
 ### 3. Frontend Setup
 ```bash
 # Navigate to frontend directory (in a new terminal)
-cd task-manager/frontend
+cd frontend
 
 # Install dependencies
 npm install
